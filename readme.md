@@ -1,8 +1,8 @@
-# Instalación
+# InstalaciÃ³n
 
-Para instalar el paquete de idioma Español a SugarCR descarga el archivo ZIP del último de tags (Releases) de este repositorio, descomprímelo y selecciona todos los archivos (bajar un directorio en el zip) para crear el zip SugarCrm-6.5-SpanishLanguagePack-$VERSION.zip y súbelo a tu SugarCRM mediante "Module Loader". Por alguna extrña razón al descargar el Tag GitHub le añade un directorio al zip dejando el codigo un nivel hacia el interior.
+Para instalar el paquete de idioma EspaÃ±ol a SugarCR descarga el archivo ZIP del Ãºltimo de tags (Releases) de este repositorio, descomprÃ­melo y selecciona todos los archivos (bajar un directorio en el zip) para crear el zip SugarCrm-6.5-SpanishLanguagePack-$VERSION.zip y sÃºbelo a tu SugarCRM mediante "Module Loader". Por alguna extrÃ±a razÃ³n al descargar el Tag GitHub le aÃ±ade un directorio al zip dejando el codigo un nivel hacia el interior.
 
-# ¿Cómo colaborar a este proyecto?
+# Â¿CÃ³mo colaborar a este proyecto?
 
 IMPORTANTE: Se usa GitFlow.
 
@@ -10,6 +10,9 @@ IMPORTANTE: Se usa GitFlow.
 
 2. Sube los cambios empujando develop hacia el origin develop y avisa al administrador para integrar el commit hacia el master y generar cada cierto tiempo un release tag.
 
-NOTA: Los tag release usan la siguiente nomenclatura: VERSION-DE-SUGAR-CRM-VERSION-DEL-LENGUAJE: Ejemplo: SugarCrm-6.5-SpanishLanguagePack-1.2.1     Números de Release: Mayor.Menor.Hotfix
+NOTA: Los tag release usan la siguiente nomenclatura: VERSION-DE-SUGAR-CRM-VERSION-DEL-LENGUAJE: Ejemplo: SugarCrm-6.5-SpanishLanguagePack-1.2.1     NÃºmeros de Release: Mayor.Menor.Hotfix
 
-CRÉDITOS: pokoli es el creador de los archivos traducidos.
+CRÃ‰DITOS: pokoli es el creador de los archivos traducidos.
+
+# sugarcrm-spanish-language-pack-CO
+Fork de : https://github.com/leonardobarrientosc/sugarcrm-spanish-language-pack.git
